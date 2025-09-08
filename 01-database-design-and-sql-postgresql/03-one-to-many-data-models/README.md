@@ -78,4 +78,5 @@ pip install ipython-sql psycopg2-binary "prettytable<3.0.0"
 
 ## Technologies / Tags
 
-`PostgreSQL` | `SQL` | `Relational Databases` | `Normalization` | `1NF` | `2NF` | `3NF` | `JOINs` | `Jupyter Notebook` | `Database Design`
+`PostgreSQL` | `SQL` | `Relational Databases` | 'One-to-Many' | `Normalization` | `1NF` | `2NF` | `3NF` | `JOINs` | `Jupyter Notebook` | `Database Design`
+
