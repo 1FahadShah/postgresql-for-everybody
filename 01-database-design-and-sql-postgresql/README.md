@@ -1,6 +1,7 @@
 # Course 1 - Database Design and Basic SQL in PostgreSQL
+[![Coursera Certificate](https://img.shields.io/badge/Coursera-Certificate-blue?logo=coursera)](https://www.coursera.org/account/accomplishments/verify/DA030CWS5KNC)
 
-This repository contains hands-on Jupyter notebooks built and documented by **Fahad Shah (1FahadShah)**. It represents my personal learning journey and practical solutions for **Course 1: Database Design and Basic SQL in PostgreSQL** from the **PostgreSQL for Everybody Specialization**
+This repository contains hands-on Jupyter notebooks built and documented by **Fahad Shah (1FahadShah)**. It represents my personal learning journey and practical solutions for **[Course 1: Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/account/accomplishments/verify/DA030CWS5KNC)** from the **PostgreSQL for Everybody Specialization**
 offered by the **University of Michigan** on Coursera.
 
 The notebooks cover essential PostgreSQL concepts required for **backend development**, **database design**, and **real-world data modeling**.
