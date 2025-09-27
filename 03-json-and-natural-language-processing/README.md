@@ -1,5 +1,5 @@
 # Course 3 - JSON and Natural Language Processing in PostgreSQL
-[![Coursera Certificate](https://img.shields.io/badge/Coursera-Certificate-blue?logo=coursera)](https://www.coursera.org/account/accomplishments/verify/YOUR-CERTIFICATE-ID-HERE)
+[![Coursera Certificate](https://img.shields.io/badge/Coursera-Certificate-blue?logo=coursera)](https://www.coursera.org/account/accomplishments/verify/VD8ZWISGEXQX)
 
 This repository contains hands-on Jupyter notebooks built and documented by **Fahad Shah (1FahadShah)**. It represents my personal learning journey and practical solutions for **[Course 3: JSON and Natural Language Processing in PostgreSQL](https://www.coursera.org/learn/json-natural-language-postgresql)** from the **PostgreSQL for Everybody Specialization** offered by the **University of Michigan** on Coursera.
 
