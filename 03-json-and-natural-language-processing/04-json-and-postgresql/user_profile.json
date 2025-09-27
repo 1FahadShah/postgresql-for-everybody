@@ -1,0 +1,10 @@
+{
+    "id": 101,
+    "name": "Fahad Shah",
+    "is_active": true,
+    "courses": [
+        "PostgreSQL",
+        "Python"
+    ],
+    "profile": null
+}
