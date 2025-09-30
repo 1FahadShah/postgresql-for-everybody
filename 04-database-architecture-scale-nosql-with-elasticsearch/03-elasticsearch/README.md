@@ -54,4 +54,4 @@ This Module provides a comprehensive introduction to **Elasticsearch**, a powerf
 
 ---
 
-*These notebooks are part of the PostgreSQL for Everybody Specialization, documented and adapted by Fahad Shah (1FahadShah) as part of his personal learning and execution journey.*
+*These notebooks are part of the PostgreSQL for Everybody Specialization, documented and adapted by Fahad Shah (1FahadShah) as part of his personal learning and execution journey.* 
